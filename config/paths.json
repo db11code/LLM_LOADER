@@ -1,4 +1,0 @@
-{
-  "model_cache": "${HOME}/.cache/llm_loader",
-  "logs": "./logs"
-} 

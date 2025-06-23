@@ -1,0 +1,5 @@
+Milestone 1 – Project Skeleton
+=============================
+
+This file marks the completion of M1 scaffold.  Any tweaks to the folder
+layout should be recorded here along with date + rationale. 

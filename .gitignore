@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+**/node_modules/
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# OS and system files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime
+*.log
+
+# Build folders
+dist/
+build/
+
+# Environment
+.env
+.env.*
